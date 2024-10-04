@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>practice_project</name>
+=======
+	<name>practice_program</name>
+>>>>>>> branch 'master' of https://github.com/m-jinbo/practice_project
 	<comment></comment>
 	<projects>
 	</projects>
