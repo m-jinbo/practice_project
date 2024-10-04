@@ -1,4 +1,4 @@
-package basic.Q04;
+package basic.q04;
 
 public class ArrayDisplay {
 	public static void main(String[] args) {
