@@ -20,7 +20,7 @@ public class Sparrow extends Animal {
 	@Override
 	public void showInfo() {
 		super.showInfo();
-		System.out.println("飛べます: " + (canFly ? "はい" : "いいえ"));
+		System.out.println("飛べます");
 	}
 
 	@Override

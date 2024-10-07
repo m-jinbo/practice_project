@@ -3,7 +3,6 @@ package practice01;
 class Employee {
 
 	String name;
-
 	int age;
 
 	void showInfo() {
