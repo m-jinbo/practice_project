@@ -11,5 +11,4 @@ public class SubtractLoop2 {
 			number--;
 		} while (number >= 0);
 	}
-
 }

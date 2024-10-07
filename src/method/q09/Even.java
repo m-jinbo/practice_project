@@ -2,6 +2,7 @@ package method.q09;
 
 public class Even {
 	public static void main(String[] args) {
+
 		int num = 10;
 		boolean isEven = checkEven(num);
 
@@ -10,6 +11,7 @@ public class Even {
 		} else {
 			System.out.println(num + "は奇数です。");
 		}
+
 		int num2 = 5;
 		boolean isEven2 = checkEven(num2);
 
@@ -23,5 +25,4 @@ public class Even {
 	public static boolean checkEven(int number) {
 		return number % 2 == 0;
 	}
-
 }

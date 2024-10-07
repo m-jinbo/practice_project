@@ -2,9 +2,9 @@ package method.q05;
 
 public class Triangle {
 	public static void main(String[] args) {
+
 		int base = 8;
 		int height = 5;
-
 		int area = getTriangleArea(base, height);
 
 		System.out.println("底辺:" + base);
@@ -14,6 +14,6 @@ public class Triangle {
 
 	public static int getTriangleArea(int base, int height) {
 		return (base * height) / 2;
-	}
 
+	}
 }

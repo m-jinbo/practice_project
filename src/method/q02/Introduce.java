@@ -2,6 +2,7 @@ package method.q02;
 
 public class Introduce {
 	public static void main(String[] args) {
+
 		selfIntroduce("山田");
 	}
 
